@@ -1,6 +1,6 @@
-def calculator():
-    a = 2 + 4
+def calculator(a, b):
+    c = a + b
 
-    return a
+    return c
 
-calculator()
+calculator(4, 7)
